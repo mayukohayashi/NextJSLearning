@@ -1,2 +1,4 @@
-# NextJSLearning
-個人的にNext.jsでなんかやりたい気持ちを表明するためにリポジトリを作ろう
+## NextJSLearning
+男もすなるNext.jsといふものを、女もしてみむとてするなり。
+
+そういう気持ちの現れ
