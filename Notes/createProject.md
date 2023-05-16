@@ -44,3 +44,25 @@
 - node_modules: パッケージのインストール先
 
 ---
+
+### install packages
+
+- `package.json`をもとにパッケージをインストールする
+- `npm install` or `yarn install`(yarnの場合)
+
+### run the development server
+
+- `package.json`の`scripts`に`dev`が設定されている
+- `npm run dev`で開発サーバーを起動する
+
+> note:
+>
+> Next.js 13.4使用
+> ver11などとフォルダ構成が違うので注意
+
+---
+
+### 見てみる
+
+- Inspectなどをあけて、ソースをみる
+  - コードがReactのAppなどと違う（レンダリングされている）を確認する
