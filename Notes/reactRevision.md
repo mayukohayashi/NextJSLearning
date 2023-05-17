@@ -134,3 +134,10 @@ export default Todo;
 ---
 
 ### Building Single-Page-Applications(SPAs)
+
+- React can be used to **control parts** of HTML pages or entire pages.
+  - <font color="red">"Widget"</font> approach on a multi-page-application
+  - (some) pages are still **rendered on and served by a backend server**.
+
+- React can also be used to control the entire frontend of a web application.
+  - <font color="red">"Single-Page-Application"(SPA)</font>  approach. Server o**nly sends one HTML page**, thereafter, React takes over and controls the UI
