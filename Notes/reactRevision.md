@@ -141,3 +141,15 @@ export default Todo;
 
 - React can also be used to control the entire frontend of a web application.
   - <font color="red">"Single-Page-Application"(SPA)</font>  approach. Server o**nly sends one HTML page**, thereafter, React takes over and controls the UI
+
+---
+
+## What is "State"?
+
+> Note
+>
+> You can take it literally
+> It is the "Current State" of your application.
+
+- State is a JavaScript object that holds data which influences the user interface.
+- State is the data which is **manipulated** and **reflected** by your running program(= by the user interface).
