@@ -30,6 +30,20 @@
 
 JSとおなじように`...`も使える
 
-## Static & Dynamic Routes
+---
 
-## Navigating Between pages
+File-based Routing(Next.js) <=> Code-based Routing(React + react router)
+
+[Filebased]
+
+- No extra boilerplate code required.
+- Intuitive system
+- File + folder structure (in pages/ folder) influences routes
+- Navigation works with `<Link>` component and imperatively.
+
+[Code-based]
+
+- Boilerplate setup in code required(`<Switch>`, `<Route>`)
+- Straightforward but includes new components + concept
+- File + folder setup does not matter at all
+- Navigation works with `<Link>` component and imperatively.
