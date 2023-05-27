@@ -21,9 +21,14 @@
     /[id].js : Single product detail page(my-domain.com/products/<id>)
 ```
 
-![](/images/id.png)
+![](images/id.png)
+
 このように、適当な値をいれてもそこをidとして認識。(= `router.query`)
 → can send a request to some backend server, and to fetch the piece of data with an id of `router.query.id`
+
+![](images/slug.png)
+
+JSとおなじように`...`も使える
 
 ## Static & Dynamic Routes
 
